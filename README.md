@@ -12,6 +12,12 @@ Image Editing software developed in Java which allows users to add various effec
 * Gaussian Blur
 * Buldge Effect
 
+# File Options
+
+* **Save:** Saves image with effects
+* **Save As:** Saves image with effects with any name on any directory on drive
+* **Open:** Presents a file explorer to choose any image from drive
+
 # Requirements 
 
 * Java Runtime Environment (Build 11.0.1+)
